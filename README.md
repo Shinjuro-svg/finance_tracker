@@ -21,7 +21,7 @@ A simple finance tracker application that allows users to manage their income, e
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/finance-tracker.git
+    git clone https://github.com/Shinjuro-svg/finance_tracker.git
     cd finance-tracker
     ```
 
