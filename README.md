@@ -1,6 +1,6 @@
 # Finance Tracker
 
-A simple finance tracker application that allows users to manage their income, expenses, and budget. The app uses PHP and MySQL to store and retrieve financial records. Users can add, edit, and delete their financial entries securely, based on their unique email accounts.
+A simple finance tracker application that allows users to manage their income, expenses, and budget. The app uses PHP and MySQL to store and retrieve financial records. Users can add, edit, and delete their financial entries securely, based on their unique email account.
 
 ## Features
 
